@@ -22,10 +22,11 @@ El sistema operativo instalado y configurado en este proyecto es Windows 11 Pro,
 ## Contenido del repositorio
  
 ```
-screenshots/        Capturas del proceso completo
+Capturas_de_pantalla_Intermodular_Sistemas_Operativos/        Capturas del proceso completo
 README.md           Este archivo
-Documentacion.docx  Documento explicativo
-Presentacion.pptx   PowerPoint del proyecto
+Proyecto_Inter_Modular_Sistemas_Operativos_Monopuesto_David_Tío_Vallejo_Caja_Magica_SMR1_Documentacion.docx  Documento explicativo
+Presentacion_Proyecto_Inter_Modular_David_Tio_SMR1_CM_Sistemas_Operativos_Mono_Puesto.pptx | Presentación del proyecto en formato visual y en PPTX
+Presentacion_Proyecto_Inter_Modular_David_Tio_SMR1_CM_Sistemas_Operativos_Mono_Puesto.pdf  | Presentación del proyecto en formato visual y en PDF
 ```
  
 ---
