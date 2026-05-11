@@ -13,13 +13,9 @@ Este proyecto consiste en la instalación, configuración y gestión de un siste
  
 ---
  
-## Sistemas operativos utilizados
+## Sistema operativo utilizado
  
-| Dispositivo | Sistema Operativo |
-|---|---|
-| PCs de oficina | Windows 11 Pro |
-| Servidores | Windows Server 2025 |
-| PC Ciberseguridad | Ubuntu Desktop |
+El sistema operativo instalado y configurado en este proyecto es Windows 11 Pro, instalado sobre una máquina virtual en VirtualBox, simulando el puesto de trabajo de un empleado de la Inmobiliaria Chamartín.
  
 ---
  
